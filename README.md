@@ -11,14 +11,16 @@
 
 
 ## Project
-  <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
+  <p>관중석 인종 분류 <a href="https://github.com/klee9/Spectator-Ethnicity-Classifier">프로젝트</p>
+  <p>전동 킥보드 위험상황 디텍션 <a href="https://github.com/klee9/Kickboard-Detection">프로젝트</p>
   
 <br/>
   
 ## Contacts
   Email: lkeon9@gmail.com<br>
-  IG: <a href="https://www.instagram.com/klee9/">@klee9 </a>
-</div>
+  IG: <a href="https://www.instagram.com/klee9/">@klee9</a><br><br>
+
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klee9)](https://solved.ac/klee9/)
+</div>
