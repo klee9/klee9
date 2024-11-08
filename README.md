@@ -7,7 +7,7 @@
 
 ## 💡 Experience
   <p>중앙대학교 보안 동아리 CAUtion 1기<sub/>(2022.03 ~ 2022.09)<sub/></br>
-  <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 여름 기수(Deep Learning)<sub/>(2024.07 ~ 2024.10)<sub/></br></br>
+  <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 여름 기수(Deep Learning) / 가을 기수(CV)<sub/>(2024.08 ~ )<sub/></br></br>
 
 
 ## 🔎 Project
