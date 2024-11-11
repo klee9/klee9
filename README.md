@@ -20,8 +20,7 @@
   Email: lkeon9@gmail.com<br>
   IG: <a href="https://www.instagram.com/klee9/">@klee9</a><br><br>
 
-</div>
-
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klee9)](https://solved.ac/klee9/)
 
+</div>
